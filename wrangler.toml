@@ -1,0 +1,9 @@
+name = "imgbb-functions"
+main = "image-worker.js"
+compatibility_date = "2025-01-01"
+keep_vars = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pca-images"
+database_id = "d6c6077e-8dbc-4f50-857b-d91e43e8f491"
